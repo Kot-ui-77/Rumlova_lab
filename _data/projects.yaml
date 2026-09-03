@@ -1,4 +1,4 @@
-- title: Cellular factors regulating the export and packaging of unspliced retroviral RNA
+- title: "Cellular factors regulating the export and packaging of unspliced retroviral RNA"
   subtitle: LUAUS26199
   group: featured
   image: images/photo.jpg
@@ -7,7 +7,7 @@
     - retroviruses
     - RNA
     
-- title: Molecular Determinants of Retroviral gRNA Selection: Dimerization, Intracellular Localization, and Polyprotein Recognition
+- title: "Molecular Determinants of Retroviral gRNA Selection: Dimerization, Intracellular Localization, and Polyprotein Recognition"
   group: featured
   image: images/photo.jpg
   tags:
@@ -15,7 +15,7 @@
     - ERVs
     - RNA
   
-- title: Mechanisms of MPMV Nuclear Entry and Dynamics: Investigating Capsid Interactions, Host Pathways, and Core Mobility
+- title: "Mechanisms of MPMV Nuclear Entry and Dynamics: Investigating Capsid Interactions, Host Pathways, and Core Mobility"
   subtitle: 26-23154N
   group: featured
   image: images/photo.jpg
@@ -23,7 +23,7 @@
     - Funded project
     - retroviruses
 
-- title: National Institute of Virology and Bacteriology
+- title: "National Institute of Virology and Bacteriology"
   subtitle: NW26A-NIVB
   image: images/photo.jpg
   group: featured
@@ -31,14 +31,14 @@
     - Funded project
     - coronaviruses
 
-- title: Study of interactions leading to assembly of retroviral particles – a tool for inhibition of their formation
+- title: "Study of interactions leading to assembly of retroviral particles – a tool for inhibition of their formation"
   subtitle: Dissertation thesis
   image: images/photo.jpg
   tags:
     - PhD
     - retroviruses
 
-- title: Investigating new therapeutic strategies against HIV-1 focused on viral structural proteins
+- title: "Investigating new therapeutic strategies against HIV-1 focused on viral structural proteins"
   subtitle: Dissertation thesis
   image: images/photo.jpg
   tags:
@@ -46,7 +46,7 @@
     - retroviruses
 
 
-- title: Study of selected enzymes involved in the replication of SARS-CoV-2
+- title: "Study of selected enzymes involved in the replication of SARS-CoV-2"
   subtitle: Dissertation thesis
   image: images/photo.jpg
   tags:
@@ -54,7 +54,7 @@
     - coronaviruses
 
     
-- title: Comprehensive characterization of Mason-Pfizer Monkey Virus reverse transcriptase: from biochemical and structural analysis to the molecular mechanisms of replication
+- title: "Comprehensive characterization of Mason-Pfizer Monkey Virus reverse transcriptase: from biochemical and structural analysis to the molecular mechanisms of replication"
   subtitle: Dissertation thesis
   image: images/photo.jpg
   tags:
@@ -62,7 +62,7 @@
     - retroviruses
 
     
-- title: Sameness evaluation – Development and Application of Methods for Demonstrating the Equivalence of Active Ingredients in Generic Drugs
+- title: "Sameness evaluation – Development and Application of Methods for Demonstrating the Equivalence of Active Ingredients in Generic Drugs"
   subtitle: Dissertation thesis
   image: images/photo.jpg
   tags:
