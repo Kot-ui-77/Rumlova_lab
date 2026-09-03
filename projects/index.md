@@ -9,7 +9,7 @@ nav:
 
 Here you can explore our currently funded research projects and available topics for PhD, Master's, and Bachelor's theses. We aim to involve researchers at all career stages in ongoing research and place particular emphasis on scientific rigor, reliable data, and meaningful contributions to the projects they join.
 
-{% include tags.html tags="Funded project, PhD, MSc, BSc" %}
+{% include tags.html tags="Funded project, PhD, MSc, BSc, retroviruses, coronaviruses, RNA, drug development" %}
 
 {% include search-info.html %}
 
