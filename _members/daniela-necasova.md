@@ -6,6 +6,7 @@ order: 6
 aliases:
   - D. Necasova
   - D Necasova
+  - Nečasová
 links:
   orcid: 0009-0008-6856-5477
   email: Daniela.Necasova@vscht.cz 
