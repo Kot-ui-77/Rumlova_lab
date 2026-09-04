@@ -1,7 +1,7 @@
 - title: "Cellular factors regulating the export and packaging of unspliced retroviral RNA"
   subtitle: LUAUS26199
   group: featured
-  image: images/photo.jpg
+  image: images/LUAUS.png
   tags:
     - Funded project
     - retroviruses
@@ -18,14 +18,14 @@
 - title: "Mechanisms of MPMV Nuclear Entry and Dynamics: Investigating Capsid Interactions, Host Pathways, and Core Mobility"
   subtitle: 26-23154N
   group: featured
-  image: images/photo.jpg
+  image: images/Jana_grant.jpg
   tags:
     - Funded project
     - retroviruses
 
 - title: "National Institute of Virology and Bacteriology"
   subtitle: NW26A-NIVB
-  image: images/photo.jpg
+  image: images/NIVB-01.png
   group: featured
   tags:
     - Funded project
@@ -56,7 +56,7 @@
     
 - title: "Comprehensive characterization of Mason-Pfizer Monkey Virus reverse transcriptase: from biochemical and structural analysis to the molecular mechanisms of replication"
   subtitle: Dissertation thesis
-  image: images/photo.jpg
+  image: images/HIV.png
   tags:
     - PhD
     - retroviruses
