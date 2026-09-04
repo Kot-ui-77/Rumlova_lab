@@ -16,6 +16,7 @@
   date: '2026-08-21'
   link: https://doi.org/hcg9g7
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/pro.70469
@@ -32,9 +33,11 @@
   publisher: Protein Science
   date: '2026-01-20'
   link: https://doi.org/hcg9g8
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0002-0497-4924
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  ivana-krizova: true
 - id: doi:10.1002/cmdc.202500644
   title: "Allosteric Inhibitors of SARS\u2010CoV\u20102 RNA\u2010Dependent RNA Polymerase\
     \ Based on\n                    <i>N</i>\n                    ,\n            \
@@ -56,6 +59,7 @@
   date: '2025-11-22'
   link: https://doi.org/hcg9g9
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.biopha.2025.118588
@@ -71,9 +75,11 @@
   publisher: Biomedicine &amp; Pharmacotherapy
   date: '2025-11-01'
   link: https://doi.org/hcg9hb
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0002-0497-4924
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  ivana-krizova: true
 - id: doi:10.1002/pro.5103
   title: "Biochemical characterization of naturally occurring mutations in\n     \
     \               <scp>SARS</scp>\n                    \u2010\n                \
@@ -94,6 +100,7 @@
   date: '2024-08-15'
   link: https://doi.org/hcg9hc
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1101/2024.02.24.581855
@@ -112,9 +119,11 @@
   publisher: openRxiv
   date: '2024-02-26'
   link: https://doi.org/hcg9hd
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0003-0430-766X
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  alzbeta-dostalkova: true
 - id: doi:10.1002/CMDC.202400367
   title: "Developing Allosteric Inhibitors of SARS\u2010CoV\u20102 RNA\u2010Dependent\
     \ RNA Polymerase"
@@ -134,6 +143,7 @@
   date: '2024-10-03'
   link: https://doi.org/hcg9hf
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.INORGCHEM.4C00084
@@ -154,6 +164,7 @@
   date: '2024-02-16'
   link: https://doi.org/hcg9hg
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.chemosphere.2024.141162
@@ -177,9 +188,11 @@
   publisher: Chemosphere
   date: '2024-03-01'
   link: https://doi.org/gwbvfk
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0003-0430-766X
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  alzbeta-dostalkova: true
 - id: doi:10.1073/PNAS.2407990121
   title: "Unveiling the DHX15\u2013G-patch interplay in retroviral RNA packaging"
   authors:
@@ -200,6 +213,7 @@
   date: '2024-09-25'
   link: https://doi.org/hcg9hh
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: sources.py
   file: sources.yaml
   type: paper
@@ -240,6 +254,7 @@
   date: '2023-05-03'
   link: https://doi.org/hcg9hj
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.scitotenv.2023.161935
@@ -261,6 +276,7 @@
   date: '2023-05-01'
   link: https://doi.org/hcg9hk
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.SCITOTENV.2023.166110
@@ -282,6 +298,7 @@
   date: '2023-12-01'
   link: https://doi.org/hcg9hm
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.54779/CHL20230393
@@ -294,6 +311,7 @@
   date: '2023-07-15'
   link: https://doi.org/hcg9hn
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.INORGCHEM.2C00040
@@ -311,6 +329,7 @@
   date: '2022-03-16'
   link: https://doi.org/hcg9hp
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/S41598-022-12760-X
@@ -331,6 +350,7 @@
   date: '2022-05-24'
   link: https://doi.org/hcg9hq
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/D2TB00141A
@@ -349,6 +369,7 @@
   date: '2022-01-01'
   link: https://doi.org/gsq5r9
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/V14061187
@@ -371,6 +392,7 @@
   date: '2022-05-30'
   link: https://doi.org/hcg9hr
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.CSBJ.2022.05.052
@@ -388,6 +410,7 @@
   date: '2022-01-01'
   link: https://doi.org/gqq488
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.WATRES.2022.118343
@@ -415,6 +438,7 @@
   date: '2022-06-01'
   link: https://doi.org/gv2jr3
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000821444602003
@@ -424,6 +448,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000821444602003
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.JBC.2022.102585
@@ -450,6 +475,7 @@
   date: '2022-11-01'
   link: https://doi.org/hcg9hs
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/BIOMEDICINES9091104
@@ -471,6 +497,7 @@
   date: '2021-08-28'
   link: https://doi.org/hcg9ht
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/V13010129
@@ -487,6 +514,7 @@
   date: '2021-01-18'
   link: https://doi.org/hcg9hv
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/V13122451
@@ -508,6 +536,7 @@
   date: '2021-12-06'
   link: https://doi.org/hcg9hw
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/PH14121291
@@ -525,6 +554,7 @@
   date: '2021-12-10'
   link: https://doi.org/g7czbj
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/IJMS221910790
@@ -545,6 +575,7 @@
   date: '2021-10-06'
   link: https://doi.org/gm7tbn
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/molecules25081895
@@ -563,9 +594,12 @@
   publisher: Molecules
   date: '2020-04-20'
   link: https://doi.org/hcg9hx
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0002-0497-4924
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  alzbeta-dostalkova: true
+  ivana-krizova: true
 - id: doi:10.1128/JVI.00991-20
   title: "<i>In Vitro</i>\n            Quantification of the Effects of IP6 and Other\
     \ Small Polyanions on Immature HIV-1 Particle Assembly and Core Stability"
@@ -579,9 +613,11 @@
   publisher: Journal of Virology
   date: '2020-09-29'
   link: https://doi.org/hcg9hz
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0002-0497-4924
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  ivana-krizova: true
 - id: wosuid:WOS:000580652400005
   title: Web of Science
   authors: []
@@ -589,6 +625,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000580652400005
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/1873-3468.13857
@@ -612,9 +649,11 @@
   publisher: FEBS Letters
   date: '2020-06-01'
   link: https://doi.org/hcg9h2
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0002-0497-4924
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  ivana-krizova: true
 - id: doi:10.3390/IJMS21239293
   title: Characterization of AMBN I and II Isoforms and Study of Their Ca2+-Binding
     Properties
@@ -637,6 +676,7 @@
   date: '2020-12-05'
   link: https://doi.org/hcg9h3
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:000580652400005
@@ -646,6 +686,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:000580652400005
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/s41598-019-53483-w
@@ -663,9 +704,12 @@
   publisher: Scientific Reports
   date: '2019-11-19'
   link: https://doi.org/hcg9h4
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0002-0497-4924
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  alzbeta-dostalkova: true
+  ivana-krizova: true
 - id: doi:10.1074/jbc.ra118.003505
   title: "Nuclear transport of nicotinamide phosphoribosyltransferase is cell cycle\u2013\
     dependent in mammalian cells, and its inhibition slows cell growth"
@@ -690,6 +734,7 @@
   date: '2019-05-01'
   link: https://doi.org/hcg9h5
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/C8BM01564C
@@ -706,6 +751,7 @@
   date: '2019-01-01'
   link: https://doi.org/hcg9h6
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1021/ACS.INORGCHEM.9B02569
@@ -723,6 +769,7 @@
   date: '2019-12-03'
   link: https://doi.org/hcg9h7
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.33549/PHYSIOLRES.933961
@@ -741,6 +788,7 @@
   date: '2019-03-22'
   link: https://doi.org/hcg9h8
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/pnas.1811580115
@@ -760,6 +808,7 @@
   date: '2018-11-26'
   link: https://doi.org/hcg9h9
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.biotechadv.2017.12.016
@@ -771,6 +820,7 @@
   date: '2018-05-01'
   link: https://doi.org/gdmfzn
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/jvi.00106-18
@@ -789,9 +839,11 @@
   publisher: Journal of Virology
   date: '2018-05-15'
   link: https://doi.org/hcg9jb
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0003-0430-766X
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  alzbeta-dostalkova: true
 - id: doi:10.3390/v10040212
   title: Does BCA3 Play a Role in the HIV-1 Replication Cycle?
   authors:
@@ -803,9 +855,11 @@
   publisher: Viruses
   date: '2018-04-20'
   link: https://doi.org/hcg9jc
-  orcid: 0000-0002-5645-8227
+  orcid: 0000-0002-0497-4924
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
+  ivana-krizova: true
 - id: wosuid:WOS:000437674105042
   title: Web of Science
   authors: []
@@ -813,6 +867,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674105042
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.VIROL.2018.06.001
@@ -832,6 +887,7 @@
   date: '2018-08-01'
   link: https://doi.org/gd3gb8
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1109/TSP.2018.8441257
@@ -851,6 +907,7 @@
   date: '2018-07-01'
   link: https://doi.org/ghdh5v
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.3390/V10100575
@@ -868,6 +925,7 @@
   date: '2018-10-20'
   link: https://doi.org/hcg9jd
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000437674102316
@@ -877,6 +935,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674102316
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000437674101001
@@ -886,6 +945,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674101001
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1039/C8TB00893K
@@ -903,6 +963,7 @@
   date: '2018-01-01'
   link: https://doi.org/hcg9jf
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000437674105181
@@ -912,6 +973,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674105181
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000437674102317
@@ -921,6 +983,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000437674102317
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.JPHOTOBIOL.2017.02.012
@@ -938,6 +1001,7 @@
   date: '2017-03-01'
   link: https://doi.org/f9z55r
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000460265400005
@@ -947,6 +1011,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000460265400005
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.JVIROMET.2017.06.003
@@ -960,6 +1025,7 @@
   date: '2017-10-01'
   link: https://doi.org/gb4f3p
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1074/JBC.M116.746461
@@ -977,6 +1043,7 @@
   date: '2016-09-01'
   link: https://doi.org/f8588b
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.JMB.2016.10.010
@@ -996,6 +1063,7 @@
   date: '2016-11-01'
   link: https://doi.org/f9cxgt
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.03197-15
@@ -1016,6 +1084,7 @@
   date: '2016-05-01'
   link: https://doi.org/f8kb7b
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/j.virol.2015.08.029
@@ -1028,6 +1097,7 @@
   date: '2015-12-01'
   link: https://doi.org/f73jf9
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/S12104-014-9580-0
@@ -1042,6 +1112,7 @@
   date: '2015-03-15'
   link: https://doi.org/f8pd4m
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature13838
@@ -1059,6 +1130,7 @@
   date: '2014-11-02'
   link: https://doi.org/gf4g5n
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/1742-4690-11-37
@@ -1077,6 +1149,7 @@
   date: '2014-05-20'
   link: https://doi.org/f542bf
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1099/VIR.0.064345-0
@@ -1095,6 +1168,7 @@
   date: '2014-06-01'
   link: https://doi.org/f57t33
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.02286-14
@@ -1115,6 +1189,7 @@
   date: '2014-12-15'
   link: https://doi.org/hcg9jg
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1186/S12977-014-0094-8
@@ -1134,6 +1209,7 @@
   date: '2014-10-30'
   link: https://doi.org/g8dwmh
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.PEP.2013.09.003
@@ -1150,6 +1226,7 @@
   date: '2013-11-01'
   link: https://doi.org/f5fwvn
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature11169
@@ -1169,6 +1246,7 @@
   date: '2012-06-03'
   link: https://doi.org/f34hdb
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.06638-11
@@ -1186,6 +1264,7 @@
   date: '2012-02-15'
   link: https://doi.org/dxhvzf
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/CHEM.201201239
@@ -1206,6 +1285,7 @@
   date: '2012-08-22'
   link: https://doi.org/fz6g25
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/jvi.05564-11
@@ -1225,6 +1305,7 @@
   date: '2012-02-01'
   link: https://doi.org/c7x7b3
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.BCP.2011.04.002
@@ -1241,6 +1322,7 @@
   date: '2011-07-01'
   link: https://doi.org/d57d3k
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000291547800003
@@ -1250,6 +1332,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000291547800003
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.02022-09
@@ -1268,6 +1351,7 @@
   date: '2010-02-15'
   link: https://doi.org/c5zdhv
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0924-977X(10)70768-9
@@ -1283,6 +1367,7 @@
   date: '2010-08-01'
   link: https://doi.org/c694ng
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000267069900153
@@ -1292,6 +1377,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000267069900153
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.JMB.2009.06.029
@@ -1315,6 +1401,7 @@
   date: '2009-09-01'
   link: https://doi.org/d85dk8
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.VIROL.2008.10.048
@@ -1332,6 +1419,7 @@
   date: '2009-02-01'
   link: https://doi.org/bdq7mp
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000267069900360
@@ -1341,6 +1429,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000267069900360
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1073/PNAS.0801765105
@@ -1362,6 +1451,7 @@
   date: '2008-07-29'
   link: https://doi.org/c9wt9r
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/S12104-008-9080-1
@@ -1377,6 +1467,7 @@
   date: '2008-03-26'
   link: https://doi.org/fq6t7r
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000253252500005
@@ -1386,6 +1477,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000253252500005
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0924-977X(08)70711-9
@@ -1402,6 +1494,7 @@
   date: '2008-08-01'
   link: https://doi.org/c3p6kh
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.VIROL.2008.07.021
@@ -1420,6 +1513,7 @@
   date: '2008-10-01'
   link: https://doi.org/cb4h72
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/NAR/GKL1074
@@ -1444,6 +1538,7 @@
   date: '2006-12-14'
   link: https://doi.org/dk4p4q
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000250203800169
@@ -1453,6 +1548,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000250203800169
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.02694-05
@@ -1469,6 +1565,7 @@
   date: '2006-07-15'
   link: https://doi.org/fbmgtn
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1080/15257770600894535
@@ -1483,6 +1580,7 @@
   date: '2006-06-01'
   link: https://doi.org/dqvv5n
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1007/S10858-005-2473-X
@@ -1499,6 +1597,7 @@
   date: '2005-04-01'
   link: https://doi.org/bvv738
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/J.AB.2005.07.013
@@ -1512,6 +1611,7 @@
   date: '2005-10-01'
   link: https://doi.org/b7zt9j
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:000234826100048
@@ -1521,6 +1621,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:000234826100048
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0042-6822(03)00128-4
@@ -1535,6 +1636,7 @@
   date: '2003-06-01'
   link: https://doi.org/cm5xx6
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1074/JBC.M306967200
@@ -1552,6 +1654,7 @@
   date: '2003-10-01'
   link: https://doi.org/cjs88c
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.76.9.4321-4330.2002
@@ -1568,6 +1671,7 @@
   date: '2002-05-01'
   link: https://doi.org/crzsj9
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0168-1702(01)00326-4
@@ -1577,6 +1681,7 @@
   date: '2001-10-01'
   link: https://doi.org/cqsz92
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1006/PREP.2001.1488
@@ -1592,6 +1697,7 @@
   date: '2001-10-01'
   link: https://doi.org/fvrrx6
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:BCI:BCI200100559055
@@ -1601,6 +1707,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:BCI:BCI200100559055
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1016/S0168-1702(01)00309-4
@@ -1610,6 +1717,7 @@
   date: '2001-10-01'
   link: https://doi.org/bzkm89
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.74.18.8452-8459.2000
@@ -1626,6 +1734,7 @@
   date: '2000-09-15'
   link: https://doi.org/d726q2
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1135/CCCC19991348
@@ -1640,6 +1749,7 @@
   date: '1999-01-01'
   link: https://doi.org/c5bwrq
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1093/EMBOJ/16.19.5819
@@ -1656,6 +1766,7 @@
   date: '1997-10-01'
   link: https://doi.org/chghkc
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1128/JVI.69.2.1093-1098.1995
@@ -1670,6 +1781,7 @@
   date: '1995-02-01'
   link: https://doi.org/hcg9jh
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:A1995RF61200006
@@ -1679,6 +1791,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1995RF61200006
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:WOS:A1994PN15700007
@@ -1688,6 +1801,7 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:WOS:A1994PN15700007
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
   plugin: orcid.py
   file: orcid.yaml
 - id: wosuid:DIIDW:2012E51566
@@ -1697,5 +1811,722 @@
   date: ''
   link: https://www.webofscience.com/wos/woscc/full-record/WOS:DIIDW:2012E51566
   orcid: 0000-0002-5645-8227
+  michaela-rumlova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1099/jgv.0.002258
+  title: Co-release of tick-borne encephalitis virus RNA and structural proteins via
+    virus-like particles and extracellular vesicles
+  authors:
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Anna Klime\u0161ov\xE1"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Jana Rackov\xE1"
+  - "Ji\u0159ina Kaufmanov\xE1"
+  - "Radim Novotn\xFD"
+  - "Mat\u011Bj Danda"
+  - "Ivana Mato\u0161evi\u0107"
+  - "Zden\u011Bk Franta"
+  - "Hana Tykalov\xE1"
+  - Libor Grubhoffer
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of General Virology
+  date: '2026-04-29'
+  link: https://doi.org/hchprp
+  orcid: 0000-0002-0497-4924
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+  ivana-krizova: true
+- id: doi:10.1016/j.watres.2022.118343
+  title: Monitoring COVID-19 spread in Prague local neighborhoods based on the presence
+    of SARS-CoV-2 RNA in wastewater collected throughout the sewer network
+  authors:
+  - Kamila Zdenkova
+  - Jana Bartackova
+  - Eliska Cermakova
+  - Katerina Demnerova
+  - Alzbeta Dostalkova
+  - Vaclav Janda
+  - Jiri Jarkovsky
+  - Marco Antonio Lopez Marin
+  - Zuzana Novakova
+  - Michaela Rumlova
+  - Jana Rihova Ambrozova
+  - Klara Skodakova
+  - Iva Swierczkova
+  - Petr Sykora
+  - Dana Vejmelkova
+  - Jiri Wanner
+  - Jan Bartacek
+  publisher: Water Research
+  date: '2022-06-01'
+  link: https://doi.org/gv2jr3
+  orcid: 0000-0003-0430-766X
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v14061187
+  title: "Correction: K\u0159\xED\u017Eov\xE1 et al. Fullerene Derivatives Prevent\
+    \ Packaging of Viral Genomic RNA into HIV-1 Particles by Binding Nucleocapsid\
+    \ Protein. Viruses 2021, 13, 2451"
+  authors:
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Edison Castro
+  - Jan Prchal
+  - "Romana Hadravov\xE1"
+  - Filip Kaufman
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  - Manuel Llano
+  - Luis Echegoyen
+  - "Michaela Rumlov\xE1"
+  publisher: Viruses
+  date: '2022-05-30'
+  link: https://doi.org/hcg9hr
+  orcid: 0000-0002-0497-4924
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+  ivana-krizova: true
+- id: doi:10.3390/v13122451
+  title: Fullerene Derivatives Prevent Packaging of Viral Genomic RNA into HIV-1 Particles
+    by Binding Nucleocapsid Protein
+  authors:
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Edison Castro
+  - Jan Prchal
+  - "Romana Hadravov\xE1"
+  - Filip Kaufman
+  - Richard Hrabal
+  - "Tom\xE1\u0161 Ruml"
+  - Manuel Llano
+  - Luis Echegoyen
+  - "Michaela Rumlov\xE1"
+  publisher: Viruses
+  date: '2021-12-06'
+  link: https://doi.org/hcg9hw
+  orcid: 0000-0002-0497-4924
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+  ivana-krizova: true
+- id: doi:10.1101/2021.07.28.21261272
+  title: Monitoring COVID-19 spread in Prague local neighborhoods based on the presence
+    of SARS-CoV-2 RNA in wastewater collected throughout the sewer network
+  authors:
+  - Kamila Zdenkova
+  - Jana Bartackova
+  - Eliska Cermakova
+  - Katerina Demnerova
+  - Alzbeta Dostalkova
+  - Vaclav Janda
+  - Zuzana Novakova
+  - Michaela Rumlova
+  - Jana Rihova Ambrozova
+  - Klara Skodakova
+  - Iva Swierczkova
+  - Petr Sykora
+  - Dana Vejmelkova
+  - Jiri Wanner
+  - Jan Bartacek
+  publisher: openRxiv
+  date: '2021-07-31'
+  link: https://doi.org/hchprq
+  orcid: 0000-0003-0430-766X
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/v13010129
+  title: Effect of Small Polyanions on In Vitro Assembly of Selected Members of Alpha-,
+    Beta- and Gammaretroviruses
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Barbora Vokat\xE1"
+  - Filip Kaufman
+  - Pavel Ulbrich
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Viruses
+  date: '2021-01-18'
+  link: https://doi.org/hcg9hv
+  orcid: 0000-0003-0430-766X
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/jvi.00991-20
+  title: "<i>In Vitro</i>\n            Quantification of the Effects of IP6 and Other\
+    \ Small Polyanions on Immature HIV-1 Particle Assembly and Core Stability"
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Filip Kaufman
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Barbora Vokat\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of Virology
+  date: '2020-09-29'
+  link: https://doi.org/hcg9hz
+  orcid: 0000-0003-0430-766X
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.virol.2018.06.001
+  title: "Conserved cysteines in Mason\u2013Pfizer monkey virus capsid protein are\
+    \ essential for infectious mature particle formation"
+  authors:
+  - "R\u016F\u017Eena P\xEDchalov\xE1"
+  - "Tibor F\xFCzik"
+  - "Barbora Vokat\xE1"
+  - "Michaela Rumlov\xE1"
+  - Manuel Llano
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - Pavel Ulbrich
+  publisher: Virology
+  date: '2018-08-01'
+  link: https://doi.org/gd3gb8
+  orcid: 0000-0002-0497-4924
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+  ivana-krizova: true
+- id: doi:10.1021/acssuschemeng.7b02392
+  title: Thermal Carbon Analysis Enabling Comprehensive Characterization of Lignin
+    and Its Degradation Products
+  authors:
+  - Keith Voeller
+  - "Honza B\xEDlek"
+  - Jasmine Kreft
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Evguenii Kozliak
+  - "Alena Kub\xE1tov\xE1"
+  publisher: ACS Sustainable Chemistry &amp; Engineering
+  date: '2017-10-19'
+  link: https://doi.org/gckk4x
+  orcid: 0000-0003-0430-766X
+  alzbeta-dostalkova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.2147/DDDT.S615974
+  title: N-Alkylated Monoterpene Indole Alkaloid Derivatives as Chemotherapy Adjuvants
+    That Overcome P-glycoprotein-Mediated Multidrug Resistance in Cancer Cells, Spheroids
+    and Patient-Derived Colorectal Cancer Organoids
+  authors:
+  - "Tom\xE1\u0161 Nejedl\xFD"
+  - "Ond\u0159ej Strnad"
+  - Jan Ulrych
+  - "V\xE1clav Han\u017El"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Simona Dobiasov\xE1"
+  - David Paulino Cardoso
+  - Silva F Mulhovo
+  - "Mark\xE9ta \u010Castor\xE1lov\xE1"
+  - "Maria-Jos\xE9 U Ferreira"
+  - "Jitka Viktorov\xE1"
+  publisher: Drug Design, Development and Therapy
+  date: '2026-08-01'
+  link: https://doi.org/hcgxhx
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: issn:1177-8881
+  title: ISSN 1177-8881 - Drug design, development and therapy
+  authors: []
+  publisher: ''
+  date: ''
+  link: https://portal.issn.org/resource/ISSN/1177-8881
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/d5tb00401b
+  title: "Modulating the anti-cancer photodynamic efficiency of molybdenum-iodide\
+    \ nanoclusters\n                    <i>via</i>\n                    ligand design"
+  authors:
+  - "Tom\xE1\u0161 P\u0159ibyl"
+  - "Karel \u0160koch"
+  - Dmytro Bavol
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - Jaroslav Zelenka
+  - "Tom\xE1\u0161 Ruml"
+  - Kamil Lang
+  - Kaplan Kirakci
+  publisher: Journal of Materials Chemistry B
+  date: '2025-01-01'
+  link: https://doi.org/hchprr
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1073/pnas.2407990121
+  title: "Unveiling the DHX15\u2013G-patch interplay in retroviral RNA packaging"
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Petra Junkov\xE1"
+  - "Jana Rackov\xE1"
+  - Marina Kapisheva
+  - "Radim Novotn\xFD"
+  - "Mat\u011Bj Danda"
+  - "Karol\xEDna Zvona\u0159ov\xE1"
+  - "Larisa \u0160inkovec"
+  - "Kate\u0159ina Ve\u010Derkov\xE1"
+  - "Lucie Bedn\xE1rov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Proceedings of the National Academy of Sciences
+  date: '2024-09-25'
+  link: https://doi.org/hcg9hh
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jphotochem.2024.115618
+  title: "Chlorin spiro-Tr\xF6ger's base as a prospective photosensitizer for photodynamic\
+    \ therapy of cancer"
+  authors:
+  - "Tereza Navr\xE1tilov\xE1"
+  - "Denisa Pineckerov\xE1"
+  - Ameneh Tatar
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Martin Havl\xEDk"
+  - "Michaela Drozdov\xE1"
+  - Jan Hajduch
+  - Jaroslav Zelenka
+  - Pavel Anzenbacher, Jr.
+  - "Bohumil Dolensk\xFD"
+  publisher: 'Journal of Photochemistry and Photobiology A: Chemistry'
+  date: '2024-08-01'
+  link: https://doi.org/hchprs
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.ijpharm.2024.124170
+  title: 'PLGA-based nanocarriers for combined delivery of colchicine and purpurin
+    18 in cancer therapy: Multimodal approach employing cancer cell spheroids'
+  authors:
+  - Alma Lucia Villela Zumaya
+  - "Vladim\xEDra Svobodov\xE1 Pavl\xED\u010Dkov\xE1"
+  - "Silvie Rimpelov\xE1"
+  - "Mark\xE9ta \u0160t\u011Bjd\xED\u0159ov\xE1"
+  - Michal Fulem
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - Pavel Ulbrich
+  - "Pavel \u0158ezanka"
+  - Fatima Hassouna
+  publisher: International Journal of Pharmaceutics
+  date: '2024-05-01'
+  link: https://doi.org/g95q76
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/fermentation9090805
+  title: Alcohol-Free Beer Produced Using Maltose-Negative Wine Yeast Saccharomyces
+    cerevisiae with Probiotic Potential
+  authors:
+  - "Emre \u0130lpars"
+  - "\u0160t\u011Bp\xE1nka Titlov\xE1"
+  - "Katar\xEDna Hanzal\xEDkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Tom\xE1\u0161 Br\xE1nyik"
+  publisher: Fermentation
+  date: '2023-08-31'
+  link: https://doi.org/hchprt
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/d3ma00577a
+  title: "Radiosensitizing molybdenum iodide nanoclusters conjugated with a biocompatible\n\
+    \                    <i>N</i>\n                    -(2-hydroxypropyl)methacrylamide\
+    \ copolymer: a step towards radiodynamic therapy"
+  authors:
+  - Kaplan Kirakci
+  - Robert Pola
+  - Marina Rodrigues Tavares
+  - Michal Pechar
+  - "Tom\xE1\u0161 P\u0159ibyl"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - Jaroslav Zelenka
+  - "Tom\xE1\u0161 Ruml"
+  - "Tom\xE1\u0161 Etrych"
+  - Kamil Lang
+  publisher: Materials Advances
+  date: '2023-01-01'
+  link: https://doi.org/hchprv
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ph15050534
+  title: Cobalt Bis-Dicarbollide Enhances Antibiotics Action towards Staphylococcus
+    epidermidis Planktonic Growth Due to Cell Envelopes Disruption
+  authors:
+  - "Eva Va\u0148kov\xE1"
+  - "Krist\xFDna Loko\u010Dov\xE1"
+  - "Petra Ka\u0161parov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Olga Ma\u0165\xE1tkov\xE1"
+  - "Jan Mas\xE1k"
+  - "V\xE1clav \u0160\xEDcha"
+  publisher: Pharmaceuticals
+  date: '2022-04-26'
+  link: https://doi.org/hchprw
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1038/s41598-022-12760-x
+  title: "Alteration in DNA-binding affinity of Wilms tumor 1 protein due to WT1 genetic\
+    \ variants associated with steroid\_- resistant nephrotic syndrome in children"
+  authors:
+  - Martin Bezdicka
+  - Filip Kaufman
+  - Ivana Krizova
+  - Alzbeta Dostalkova
+  - Michaela Rumlova
+  - Tomas Seeman
+  - Karel Vondrak
+  - Filip Fencl
+  - Jakub Zieg
+  - Ondrej Soucek
+  publisher: Scientific Reports
+  date: '2022-05-24'
+  link: https://doi.org/hcg9hq
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1002/adfm.202205062
+  title: "Fully Programmable Collective Behavior of Light\u2010Powered Chemical Microrobotics:\
+    \ pH\u2010Dependent Motion Behavior Switch and Controlled Cancer Cell Destruction"
+  authors:
+  - Lukas Dekanovsky
+  - Yulong Ying
+  - Jaroslav Zelenka
+  - Jan Plutnar
+  - "Seyyed Mohsen Beladi\u2010Mousavi"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Filip Novotn\xFD"
+  - "Tom\xE1\u0161 Ruml"
+  - Martin Pumera
+  publisher: Advanced Functional Materials
+  date: '2022-07-13'
+  link: https://doi.org/hchprx
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/ijms221910790
+  title: Inhibition of Mitochondrial Metabolism Leads to Selective Eradication of
+    Cells Adapted to Acidic Microenvironment
+  authors:
+  - "Martina Konco\u0161ov\xE1"
+  - "Nikola Vrz\xE1\u010Dkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Petra Tom\xE1\u0161ov\xE1"
+  - "Silvie Rimpelov\xE1"
+  - "Ale\u0161 Dvo\u0159\xE1k"
+  - "Libor V\xEDtek"
+  - "Michaela Rumlov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - Jaroslav Zelenka
+  publisher: International Journal of Molecular Sciences
+  date: '2021-10-06'
+  link: https://doi.org/gm7tbn
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/md19090509
+  title: Influence of Cultivation Conditions on the Sioxanthin Content and Antioxidative
+    Protection Effect of a Crude Extract from the Vegetative Mycelium of Salinispora
+    tropica
+  authors:
+  - Zuzana Jezkova
+  - Vera Schulzova
+  - Ivana Krizova
+  - Marcel Karabin
+  - Tomas Branyik
+  publisher: Marine Drugs
+  date: '2021-09-08'
+  link: https://doi.org/hchprz
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/biomedicines9091104
+  title: 'Betulinic Acid Decorated with Polar Groups and Blue Emitting BODIPY Dye:
+    Synthesis, Cytotoxicity, Cell-Cycle Analysis and Anti-HIV Profiling'
+  authors:
+  - David Kodr
+  - "Jarmila Stankov\xE1"
+  - "Michaela Rumlov\xE1"
+  - "Petr D\u017Eub\xE1k"
+  - "Ji\u0159\xED \u0158ehulka"
+  - "Tom\xE1\u0161 Zimmermann"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "So\u0148a Gursk\xE1"
+  - "Mari\xE1n Hajd\xFAch"
+  - "Pavel B. Dra\u0161ar"
+  - "Michal Jur\xE1\u0161ek"
+  publisher: Biomedicines
+  date: '2021-08-28'
+  link: https://doi.org/hcg9ht
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acsanm.1c03832
+  title: Polymeric Membranes Containing Iodine-Loaded UiO-66 Nanoparticles as Water-Responsive
+    Antibacterial and Antiviral Surfaces
+  authors:
+  - Kaplan Kirakci
+  - "Daniel B\u016F\u017Eek"
+  - Petra Peer
+  - "Vojt\u011Bch Li\u0161ka"
+  - "Ji\u0159\xED Mosinger"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Matou\u0161 Kloda"
+  - "So\u0148a Ondru\u0161ov\xE1"
+  - Kamil Lang
+  - Jan Demel
+  publisher: ACS Applied Nano Materials
+  date: '2021-12-24'
+  link: https://doi.org/hchpr2
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1021/acs.inorgchem.0c01173
+  title: 'Octahedral Molybdenum Cluster Complexes with Optimized
+
+    Properties for Photodynamic
+
+    Applications'
+  authors:
+  - Kaplan Kirakci
+  - Jaroslav Zelenka
+  - "Ivana Kr\u030Ci\u0301z\u030Cova\u0301"
+  - "Toma\u0301s\u030C Ruml"
+  - Kamil Lang
+  publisher: Inorganic Chemistry
+  date: '2020-06-09'
+  link: https://doi.org/hchpr3
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3390/molecules24244477
+  title: 'PEGylated Purpurin 18 with Improved Solubility: Potent Compounds for Photodynamic
+    Therapy of Cancer'
+  authors:
+  - "Vladim\xEDra Pavl\xED\u010Dkov\xE1"
+  - "Silvie Rimpelov\xE1"
+  - "Michal Jur\xE1\u0161ek"
+  - "Kamil Z\xE1ruba"
+  - "Jan F\xE4hnrich"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Ji\u0159\xED Bej\u010Dek"
+  - "Zde\u0148ka Rottnerov\xE1"
+  - "Vojt\u011Bch Spiwok"
+  - "Pavel Dra\u0161ar"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Molecules
+  date: '2019-12-06'
+  link: https://doi.org/hchpr4
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.tice.2019.05.004
+  title: 'Argon plasma-treated fluorinated ethylene propylene: Growth of primary dermal
+    fibroblasts and mesenchymal stem cells'
+  authors:
+  - "Lucie Peterkov\xE1"
+  - "Silvie Rimpelov\xE1"
+  - "Petr Slepi\u010Dka"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Nikola Slepi\u010Dkov\xE1 Kas\xE1lkov\xE1"
+  - "V\xE1clav \u0160vor\u010D\xEDk"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: Tissue and Cell
+  date: '2019-06-01'
+  link: https://doi.org/hchpr5
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.msec.2019.02.100
+  title: 'Biocompatibility of Ar plasma-treated fluorinated ethylene propylene: Adhesion
+    and viability of human keratinocytes'
+  authors:
+  - "Lucie Peterkov\xE1"
+  - "Silvie Rimpelov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Petr Slepi\u010Dka"
+  - "Nikola Slepi\u010Dkov\xE1 Kas\xE1lkov\xE1"
+  - "V\xE1clav \u0160vor\u010D\xEDk"
+  - "Tom\xE1\u0161 Ruml"
+  publisher: 'Materials Science and Engineering: C'
+  date: '2019-07-01'
+  link: https://doi.org/hchpr6
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1016/j.jorganchem.2019.120891
+  title: Cobalt bis-dicarbollide and its ammonium derivatives are effective antimicrobial
+    and antibiofilm agents
+  authors:
+  - "Eva Va\u0148kov\xE1"
+  - "Krist\xFDna Loko\u010Dov\xE1"
+  - "Olga Ma\u0165\xE1tkov\xE1"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Jan Mas\xE1k"
+  - "Bohum\xEDr Gr\xFCner"
+  - Pavel Kaule
+  - "Jan \u010Cerm\xE1k"
+  - "V\xE1clav \u0160\xEDcha"
+  publisher: Journal of Organometallic Chemistry
+  date: '2019-10-01'
+  link: https://doi.org/ghp72t
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1074/jbc.RA118.003505
+  title: "Nuclear transport of nicotinamide phosphoribosyltransferase is cell cycle\u2013\
+    dependent in mammalian cells, and its inhibition slows cell growth"
+  authors:
+  - Petr Svoboda
+  - Edita Krizova
+  - Sarka Sestakova
+  - Kamila Vapenkova
+  - Zdenek Knejzlik
+  - Silvie Rimpelova
+  - Diana Rayova
+  - Nikol Volfova
+  - Ivana Krizova
+  - Michaela Rumlova
+  - David Sykora
+  - Rene Kizek
+  - Martin Haluzik
+  - Vaclav Zidek
+  - Jarmila Zidkova
+  - Vojtech Skop
+  publisher: Journal of Biological Chemistry
+  date: '2019-05-01'
+  link: https://doi.org/hcg9h5
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.33549/physiolres.933961
+  title: "Various AKIP1 Expression Levels Affect Its Subcellular Localization but\
+    \ Have no Effect on NF-\u03BAB Activation"
+  authors:
+  - "A. KEPROV\xC1"
+  - "L. KO\u0158\xCDNKOV\xC1"
+  - "I. K\u0158\xCD\u017DOV\xC1"
+  - "R. HADRAVOV\xC1"
+  - F. KAUFMAN
+  - "I. PICHOV\xC1"
+  - T. RUML
+  - "M. RUMLOV\xC1"
+  publisher: Physiological Research
+  date: '2019-03-22'
+  link: https://doi.org/hcg9h8
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1128/JVI.00106-18
+  title: Mutations in the Basic Region of the Mason-Pfizer Monkey Virus Nucleocapsid
+    Protein Affect Reverse Transcription, Genomic RNA Packaging, and the Virus Assembly
+    Site
+  authors:
+  - "Al\u017Eb\u011Bta Dost\xE1lkov\xE1"
+  - Filip Kaufman
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Anna Kultov\xE1"
+  - "Karol\xEDna Strohalmov\xE1"
+  - "Romana Hadravov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Michaela Rumlov\xE1"
+  publisher: Journal of Virology
+  date: '2018-05-15'
+  link: https://doi.org/hcg9jb
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c8ob01984c
+  title: Phosphinatophenylporphyrins tailored for high photodynamic efficacy
+  authors:
+  - Jan Hynek
+  - "Martina Konco\u0161ov\xE1"
+  - Jaroslav Zelenka
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - "Pavel Kub\xE1t"
+  - Jan Demel
+  - Kamil Lang
+  publisher: Organic &amp; Biomolecular Chemistry
+  date: '2018-01-01'
+  link: https://doi.org/hchpr7
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.3762/bjnano.9.275
+  title: The nanoscaled metal-organic framework ICR-2 as a carrier of porphyrins for
+    photodynamic therapy
+  authors:
+  - Jan Hynek
+  - "Sebastian Jur\xEDk"
+  - "Martina Konco\u0161ov\xE1"
+  - Jaroslav Zelenka
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - "Tom\xE1\u0161 Ruml"
+  - Kaplan Kirakci
+  - Ivo Jakubec
+  - "Franti\u0161ek Kovanda"
+  - Kamil Lang
+  - Jan Demel
+  publisher: Beilstein Journal of Nanotechnology
+  date: '2018-11-30'
+  link: https://doi.org/hchpr8
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.1039/c6tb03230c
+  title: "Nanoscaled porphyrinic metal\u2013organic frameworks: photosensitizer delivery\
+    \ systems for photodynamic therapy"
+  authors:
+  - "Daniel B\u016F\u017Eek"
+  - Jaroslav Zelenka
+  - Pavel Ulbrich
+  - "Tom\xE1\u0161 Ruml"
+  - "Ivana K\u0159\xED\u017Eov\xE1"
+  - Jan Lang
+  - "Pavel Kub\xE1t"
+  - Jan Demel
+  - Kaplan Kirakci
+  - Kamil Lang
+  publisher: Journal of Materials Chemistry B
+  date: '2017-01-01'
+  link: https://doi.org/hchpr9
+  orcid: 0000-0002-0497-4924
+  ivana-krizova: true
   plugin: orcid.py
   file: orcid.yaml
