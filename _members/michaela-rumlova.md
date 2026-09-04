@@ -1,5 +1,5 @@
 ---
-name: Michaela Rumlova
+name: Michaela Rumlová
 image: images/MR.jpg
 role: principal-investigator
 order: 1
