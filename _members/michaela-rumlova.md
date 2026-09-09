@@ -6,6 +6,7 @@ order: 1
 aliases:
   - M. Rumlova
   - M Rumlova
+  - Michaela Rumlová
 links:
   orcid: 0000-0002-5645-8227
   email: michaela.rumlova@scht.cz
