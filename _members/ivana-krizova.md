@@ -6,6 +6,7 @@ order: 2
 aliases:
   - I. Křížová
   - I Křížová
+  - Ivana Křížová
 links:
   orcid: 0000-0002-0497-4924
   email: ivana.krizova@vscht.cz
