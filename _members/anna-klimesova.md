@@ -6,6 +6,7 @@ order: 5
 aliases:
   - A. Klimešová
   - A Klimešová
+  - Anna Klimešová
 links:
   orcid: 0000-0002-8624-1598
   email: klimeson@vscht.cz
