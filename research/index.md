@@ -36,4 +36,4 @@ Explore our publications and learn more about our research.
 
 {% include search-info.html %}
 
-{% include list.html data="citations" component="citation" style="rich" %}
+{% include list.html data="citations" component="citation" style="rich" filter="date >= '1995-01-01'" %}
