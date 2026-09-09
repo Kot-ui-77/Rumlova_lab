@@ -6,6 +6,7 @@ order: 4
 aliases:
   - J. Racková
   - J Racková
+  - Jana Racková
 links:
   orcid: 0000-0003-3262-4937
   email: Jana.Rackova@vscht.cz 
