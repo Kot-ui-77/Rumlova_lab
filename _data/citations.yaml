@@ -629,7 +629,7 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1002/1873-3468.13857
-  title: "Characterization and <i>in\_vitro</i> assembly of tick\u2010borne encephalitis\
+  title: "Characterization and <i>in vitro</i> assembly of tick\u2010borne encephalitis\
     \ virus C protein"
   authors:
   - Filip Kaufman
@@ -1116,8 +1116,8 @@
   plugin: orcid.py
   file: orcid.yaml
 - id: doi:10.1038/nature13838
-  title: "Structure of the immature HIV-1 capsid in intact virus particles at 8.8\_\
-    \xC5 resolution"
+  title: "Structure of the immature HIV-1 capsid in intact virus particles at 8.8\
+    \ \xC5 resolution"
   authors:
   - Florian K. M. Schur
   - Wim J. H. Hagen
@@ -1127,7 +1127,7 @@
   - "Hans-Georg Kr\xE4usslich"
   - John A. G. Briggs
   publisher: Nature
-  date: '2014-11-02'
+  date: '2015-01-01'
   link: https://doi.org/gf4g5n
   orcid: 0000-0002-5645-8227
   michaela-rumlova: true
