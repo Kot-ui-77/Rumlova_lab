@@ -3,7 +3,7 @@
 
 # Molecular Virology lab
 
-We study the molecular biology of retroviruses and flaviviruses, with a focus on viral replication, virus–host interactions, and mechanisms that regulate the viral replication cycle.
+We are a molecular virology research group based at UCT Prague, studying retroviruses and flaviviruses with a focus on viral replication, virus–host interactions, and mechanisms regulating the viral replication cycle.
 
 {% include section.html %}
 
