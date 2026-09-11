@@ -26,7 +26,7 @@ Our research focuses on the molecular mechanisms of viral replication, including
 
 {%
   include feature.html
-  image="images/book.jpg"
+  image="images/research_book.png"
   link="research"
   title="Our Research"
   text=text
