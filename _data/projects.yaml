@@ -30,7 +30,16 @@
   tags:
     - Funded project
     - coronaviruses
-
+    
+- title: "Mechanisms of DHX15 Capture and Reprogramming by the Mason–Pfizer Monkey Virus G-Patch Module"
+  subtitle: GAČR
+  group: featured
+  image: images/GACR.png
+  tags:
+    - Funded project
+    - retroviruses
+    - helicase
+    
 - title: "Study of interactions leading to assembly of retroviral particles – a tool for inhibition of their formation"
   subtitle: Dissertation thesis
   image: images/photo.jpg
